@@ -64,7 +64,7 @@ a {
     background-size: cover;
     background-position: center;
 }
-/* hero/jumbrotron styles start */
+/* hero/jumbrotron styles end */
 
 /* benefits styles start */
 .benefits {
@@ -78,7 +78,7 @@ a {
     background-color: #2589bd;
 }
 
-.benefits div{
+.benefits article{
     margin-bottom: 32px;
 }
 
@@ -101,7 +101,7 @@ a {
     margin-left: 20px;
 }
 
-.services div {
+.services article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
